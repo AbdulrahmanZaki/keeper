@@ -1,6 +1,6 @@
 # Keeper app
 
-A beginner React App for a note.
+A React App for taking note.
 
 ## Table of Cotents
 
@@ -10,7 +10,7 @@ A beginner React App for a note.
 
 ## About
 
-Keeper project is a biginner React app using the front-end tool Vite that speeds the front-end development experience of an application.
+Keeper project is a React app using the front-end tool Vite that speeds the front-end development experience of an application.
 
 ## Goal
 
